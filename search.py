@@ -14,6 +14,7 @@
 n = int(input())
 
 # организовать ввод строк
+
 strings = []
 for _ in range(n):
     strings.append(input())
